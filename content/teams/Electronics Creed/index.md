@@ -1,12 +1,12 @@
 ---
 type: "team"                                                        
-title: ""
-name: ""
-github-link: ""
-description: ""
-Team_Tech_Stack: ""
-Application_Type: ""
-No_Of_Member: ""
+title: "Electronics Creed"
+name: "Electronics Creed"
+github-link: "https://github.com/Saikumarksk"
+description: "We are young developers who accept difficult challenges"
+Team_Tech_Stack: "Python, Django, HTML, CSS, Java Script"
+Application_Type: "Web Application"
+No_Of_Member: "5"
 ---
 
 Hey ! We are Team DemoTeam. We are here to win. and we also love open source.
@@ -19,7 +19,7 @@ _**Theme-Name**_ : AtmaNirbhar Bharat
 
 _**Application-Type**_ :   Web Application
 
-_**Idea-Description**_ :   
+_**Idea-Description**_ :   The Web Application is about 
 
 _**Tech-Stack-Used**_ :   Python, Django, HTML, Java Script, CSS
 
