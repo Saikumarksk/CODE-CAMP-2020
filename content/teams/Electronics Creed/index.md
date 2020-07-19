@@ -1,12 +1,12 @@
 ---
-type: "team"                                                        
-title: "Electronics Creed"
-name: "Electronics Creed"
-github-link: "https://github.com/Saikumarksk"
-description: "We are young developers who accept difficult challenges"
-Team_Tech_Stack: "Python, Django, HTML, CSS, Java Script"
-Application_Type: "Web Application"
-No_Of_Member: "5"
+type: team                                                        
+title: Electronics Creed
+name: Electronics Creed
+github-link: https://github.com/Saikumarksk
+description: We are young developers who accept difficult challenges
+Team_Tech_Stack: Python, Django, HTML, CSS, Java Script
+Application_Type: Web Application
+No_Of_Member: 5
 ---
 
 Hey ! We are Team DemoTeam. We are here to win. and we also love open source.
@@ -25,13 +25,12 @@ _**Tech-Stack-Used**_ :   Python, Django, HTML, Java Script, CSS
 
 _**GitHub-Link**_ :   https://github.com/Saikumarksk/Code-Camp 
 
-_**Hosted-Link**_ :   https://github.com/Saikumarksk
-
+_**Hosted-Link**_ :   
 ---
 
 # Member Details
 
-_**No of members**_ : 
+_**No of members**_ : 5
 
 Fill Team Details for only the valid no of members in your team and delete the leftover Template...
 
@@ -112,21 +111,3 @@ _**Technical-Skills**_ : Python, Arduino, C
 _**Specialization**_ : openCV, Tensorflow, Nueral netwroks
 
 _**GitHub-ID**_ : https://github.com/g-rohith
-
----
-
-## Member 6 Details
-
-_**Name**_ : 
-
-_**University-Name**_ : 
-
-_**country**_ :
- 
-_**Technical-Skills**_ :
-
-_**Specialization**_ :
-
-_**GitHub-ID**_ :  
-
-
