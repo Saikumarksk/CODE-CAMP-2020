@@ -19,7 +19,15 @@ _**Theme-Name**_ : AtmaNirbhar Bharat
 
 _**Application-Type**_ :   Web Application
 
-_**Idea-Description**_ :   The Web Application is about 
+_**Idea-Description**_ :   We as a team focuses on boosting the confidence of young entrepreneur to pursue their dream. Unemployment has been a big problem in India because the competition is high and resources are less. Our project "Start-up Booster" lay emphasis on shortening the gap between a dream idea with its practical reality. Establishing a start-up at an ideal location with the ideal budget would ease this problem to some extent. So we are building a website that aids those who are planning to establish a start-up but don’t know how to really get going. Our web application will ask the start-up interested user to input various necessary data including some personal information like Name, Gender, Contact info, followed by their idea and the name of state and industry in which they want to prosper their start-up.
+This is how our website will aid those in need:
+1.	The person will be asked to create his personal profile.
+2.	Then we will compare profiles created by different people and connect them to the people who have similar ideas or interests. They will be updated timely about other like-minded through e-mail.
+3.	For example Bangalore is a good place for an IT based start-up to flourish similarly Mumbai is a best place for import/export based industry.
+4.	The present whereabouts of other companies and start-ups can be found in the updates feed of the website.
+5.	Based on his/her budget, profile details, location and loan requirements they will be redirected to a recommended bank website.
+This website will be a one-stop destination for those looking for start-ups’ suggestions.
+
 
 _**Tech-Stack-Used**_ :   Python, Django, HTML, Java Script, CSS
 
